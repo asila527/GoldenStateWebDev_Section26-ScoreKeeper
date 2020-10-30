@@ -1,0 +1,27 @@
+#score, #players {
+    display: flex;
+}
+
+#score div, #players div {
+    padding: 5px;
+}
+
+#p1 {
+    background: red;
+}
+
+#p2 {
+    background: blue;
+}
+
+#reset {
+    background: green;
+}
+
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
